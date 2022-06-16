@@ -1,0 +1,37 @@
+.flex_parent {
+  display: flex;
+  flex-direction: row;
+  height: 300px;
+}
+Header {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(199, 231, 231);
+  padding-top: 3px;
+
+}
+
+.Navigation {
+  width: 20%;
+  background-color: #e6ac1cfd;
+}
+
+.Article {
+  width: 50%;
+  background-color: rgb(252, 217, 129);
+}
+
+.Aside {
+  width: 30%;
+  background-color: rgba(252, 252, 191, 0.897);
+}
+footer {
+  height: 50px;
+  padding-top: 1px;
+  background-color: rgb(199, 231, 231);
+}
+
+h2 {
+  font-size: medium;
+  text-indent: 3%;
+}
